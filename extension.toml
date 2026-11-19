@@ -1,0 +1,7 @@
+id = "pumpkin-season"
+name = "Pumpkin Season"
+version = "0.1.0"
+schema_version = 1
+authors = ["PumpkinSeason"]
+description = "A dark theme for Zed with soft colours, warm accents and chill backgrounds."
+repository = "https://github.com/PumpkinSeason/zed-pumpkin-season"

@@ -48,6 +48,7 @@ comments in muted green.
 - **Dark mode only.** A Zed theme declares an appearance — `dark` or `light` —
   and this one is dark, so it won't be offered while your system is in light
   mode. Zed will use a light theme instead.
+- Also the theme of [my blog](https://pumpkinseason.github.io/my-blog/).
 - No fonts are bundled. It is designed around a monospaced buffer font; this
   is what it looks like with SF Mono:
 
